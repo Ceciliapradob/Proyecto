@@ -1,0 +1,14 @@
+.container, .container2{
+    width: 50%;
+    padding: 15px;
+    text-align: center;
+}
+
+.container{
+    background-color: pink;
+
+}
+
+.container2{
+    background-color: violet;
+}
